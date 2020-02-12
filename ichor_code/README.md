@@ -1,14 +1,4 @@
-# OpenICE-lite IoMT Device support: Samsung SmartWatch(os:tizen)
+# Ichor - Team 15 - Senior Design
 
-## Introduction
-TBF
-
-## How to compile
-TBF
-
-## How to run
-TBF
-
-## Trouble shooting
-TBF
-
+## Overview
+This project builds upon the work of Dr. James Weimer and Ben Chrepta of UPenn's PRECISE Lab. We aim to measure blood pressure off of Samsung Galaxy watches. 
