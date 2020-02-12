@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="3.0" package="com.precise.samdware.cdongle" version="1.0.0">
+    <profile name="wearable"/>
+    <service-application appid="com.precise.samdware.cdongle" exec="gearfit2-cdongle" multiple="false" nodisplay="true" taskmanage="false" type="capp">
+        <label>gearfit2-cdongle</label>
+        <icon>gearfit2-dongle.png</icon>
+    </service-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/healthinfo</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://tizen.org/privilege/display</privilege>
+        <privilege>http://developer.samsung.com/tizen/privilege/accessoryprotocol</privilege>
+    </privileges>
+</manifest>
