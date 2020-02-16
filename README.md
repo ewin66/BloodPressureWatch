@@ -1,4 +1,4 @@
-# Ichor Final Project
+# Ichor - Blood Pressure Wearable - Final Project
 UPENN Interdisciplinary Senior Design Capstone
 
 
